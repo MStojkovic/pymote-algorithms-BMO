@@ -1,0 +1,1 @@
+Sensor in "Dependency for Komunikacija" contains TempSensor
